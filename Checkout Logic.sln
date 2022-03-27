@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkout Logic", "Checkout Logic\Checkout Logic.csproj", "{51A7505C-3244-4C5F-9EE1-AADB2EACB13B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkout Logic Test", "Checkout Logic Test\Checkout Logic Test.csproj", "{20CD704B-BF31-4871-ACD5-2389FFA5AE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A7505C-3244-4C5F-9EE1-AADB2EACB13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A7505C-3244-4C5F-9EE1-AADB2EACB13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A7505C-3244-4C5F-9EE1-AADB2EACB13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A7505C-3244-4C5F-9EE1-AADB2EACB13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20CD704B-BF31-4871-ACD5-2389FFA5AE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CD704B-BF31-4871-ACD5-2389FFA5AE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CD704B-BF31-4871-ACD5-2389FFA5AE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CD704B-BF31-4871-ACD5-2389FFA5AE08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5AE1104-E407-4232-A7ED-DBFAC853411B}
+	EndGlobalSection
+EndGlobal
